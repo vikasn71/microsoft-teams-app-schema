@@ -346,7 +346,7 @@
             "description": "A value indicating whether or not the bot is a one-way notification only bot, as opposed to a conversational bot.",
             "default": false
           },
-          "requireGroupSecurity": {
+          "requiresSecurityEnabledGroup": {
             "type": "boolean",
             "description": "A value indicating whether the team's Office group needs to be security enabled.",
             "default": false
